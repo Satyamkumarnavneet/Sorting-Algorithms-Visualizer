@@ -21,9 +21,12 @@ export let compareTime = 500;
 export let sortingArray = initArrayForScreenSize();
 
 export const sortingAlgorithms = [
-  { component: BubbleSort, title: "Bubble", name: "BubbleSort" },
-  { component: SelectionSort, title: "Selection", name: "SelectionSort" },
-  { component: InsertionSort, title: "Insertion", name: "InsertionSort" },
+  { component: BubbleSort, title: "Bubble", name: "BubbleSort"},
+  { component: SelectionSort, title: "Selection", name: "SelectionSort"},
+  { component: InsertionSort, title: "Insertion", name: "InsertionSort"},
+  { component: MergeSort, title: "Merge", name: "MergeSort"},
+  { component: HeapSort, title: "Heap", name: "HeapSort" },
+  { component: QuickSort, title: "Quick", name: "QuickSort"}
 ];
 
 function initArrayForScreenSize() {

@@ -43,3 +43,32 @@ export async function* HeapSort(array, swap, highlight, markSort) {
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Heap sort is a comparison-based sorting algorithm that works by building a binary heap from the input 
+// array and then repeatedly extracting the maximum element from the heap and placing it at the end of the array.
+
