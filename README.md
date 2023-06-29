@@ -33,7 +33,7 @@ The Sorting Visualizer project aims to develop a responsive web platform that vi
 
 ## Running the Application Locally
 
-1. Clone the repository: `git clone https://github.com/sadanandpai/sorting-visualizer.git`
+1. Clone the repository: `git clone https://github.com/Satyamkumarnavneet/Sorting-Algorithms-Visualizer.git`
 2. Navigate to the project directory: `cd sorting-visualizer`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
